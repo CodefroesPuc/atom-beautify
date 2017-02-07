@@ -24,6 +24,7 @@ module.exports = class Languages
     "crystal"
     "css"
     "csv"
+    "cuda"
     "d"
     "ejs"
     "elm"
